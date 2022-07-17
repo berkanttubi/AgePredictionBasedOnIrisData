@@ -1,4 +1,4 @@
-#Age Prediction Based On Iris Data
+# Age Prediction Based On Iris Data
 
 In this project, age prediction based on iris biometric data using deep learning and Tensorflow library with different numbers of hidden layer is implemented.
 The main purpose of the age prediction systems is to determine age group (group1: <25, group2: 25-60 and group3: >60 ) of the person in a query image. The prediction is done by evaluating semantic contents of the query image. However, there is a diffculty in revealing the semantics of images due to the semantic gap. In order to overcome this diffculty, images are described as feature vectors which are higher level representations than collection of numbers.
